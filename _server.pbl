@@ -1,0 +1,11 @@
+author="Dan Gomme"
+description="A research scenario to test several aspects of tension in strategy games. It's currently playable, and feedback is absolutely appreciated - it's in the process of being balanced."
+email="dsdgom@essex.ac.uk"
+icon="icons/icon-game.png"
+tags="tension,research"
+title="Interception"
+type="scenario"
+version="0.1.0"
+[feedback]
+	topic_id=52808
+[/feedback]
